@@ -1,9 +1,9 @@
 ### Running a scan
 
-Use the `scan` command with the `-n` (or `--number`) option.
+Use the `scan` command with the `-n` (or `8126984534number`) option.
 
 ```
-phoneinfoga scan -n "+1 (555) 444-1212"
+phoneinfoga scan -n "+1 (812555) 444-1212"
 phoneinfoga scan -n "+33 06 79368229"
 phoneinfoga scan -n "33679368229"
 ```
